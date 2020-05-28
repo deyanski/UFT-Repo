@@ -1,2 +1,1 @@
-﻿reporter.ReportEvent micFail,"test failed","test failed"
-msgbox "Test failed. Proceed"
+﻿reporter.ReportEvent micPass,"test failed","test failed"
