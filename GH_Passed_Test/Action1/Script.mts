@@ -6,5 +6,5 @@ wait(1)
 Window("Notepad").Close
 Window("Notepad").Dialog("Notepad").WinButton("Don't Save").Click @@ hightlight id_;_197796_;_script infofile_;_ZIP::ssf4.xml_;_
 
-reporter.ReportEvent micPass,"test Pass","test Pass"
+reporter.ReportEvent micPass,"test Passed","test Passed"
 
